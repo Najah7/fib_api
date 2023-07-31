@@ -84,7 +84,7 @@ python -m unittest discover
 ## 課題２について
 
 ### 説明文の配置場所
-- [/report/how_website_is_rendered.md](https://github.com/Najah7/speee_homework/blob/main/report/how_website_is_rendered.md)
+- [/report/v2_how_website_is_rendered.md]([https://github.com/Najah7/speee_homework/blob/main/report/how_website_is_rendered.md](https://github.com/Najah7/fib_api/blob/main/report/v2_how_website_is_rendered.md)https://github.com/Najah7/fib_api/blob/main/report/v2_how_website_is_rendered.md)
 
 ### 補足
 親に対してという、テーマだったので、初心者や、知識がない人にもわかりやすいように、説明文を書きました。
